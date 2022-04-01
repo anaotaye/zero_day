@@ -1,1 +1,1 @@
-Prints kernel name
+The uname command
